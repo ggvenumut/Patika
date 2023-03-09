@@ -1,3 +1,5 @@
+package Not_Ortalamasi_Hesaplayan_Program;
+
 import java.util.Scanner;
 
 public class Main {
