@@ -1,0 +1,3 @@
+Java.io paketinin FileInputStream sınıfı, dosyalardan verileri (bayt cinsinden) okumak için kullanılır.
+
+InputStream soyut (Abstract) sınıfını miras alır.
